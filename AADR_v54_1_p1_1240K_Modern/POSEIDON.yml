@@ -1,0 +1,24 @@
+poseidonVersion: 2.7.0
+title: AADR_v54_1_p1_1240K_Modern
+description: A Poseidon package from the AADR dataset v54.1.p1. This subset contains
+  modern data. Should be cited as "Allen Ancient DNA Resource https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data",
+  version 54.1.p1"
+contributor:
+- name: Clemens Schmid
+  email: clemens_schmid@eva.mpg.de
+  orcid: 0000-0003-3448-5715
+packageVersion: 0.1.0
+lastModified: 2023-03-10
+genotypeData:
+  format: PLINK
+  genoFile: AADR_v54_1_p1_1240K_Modern.bed
+  genoFileChkSum: cb474eb70075900aa3f8300228e85838
+  snpFile: AADR_v54_1_p1_1240K_Modern.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: AADR_v54_1_p1_1240K_Modern.fam
+  indFileChkSum: 83bf434608e96fb362b24ca902911b34
+  snpSet: 1240K
+jannoFile: AADR_v54_1_p1_1240K_Modern.janno
+jannoFileChkSum: ed07a3d79aa851c8166fc4c52cc89e8f
+bibFile: AADR_v54_1_p1_1240K_Modern.bib
+bibFileChkSum: 158fa44abba215ad981037958d7833c7
