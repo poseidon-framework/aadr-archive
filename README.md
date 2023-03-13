@@ -2,3 +2,5 @@
 
 Researchers using this dataset should cite not just the individual papers for the samples they include in their analysis (see the `.bib` files), but also the AADR dataset with the relevant release version: 
 > "Allen Ancient DNA Resource https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data", version XX
+
+The steps we applied to transform the AADR datasets to Poseidon packages are documented here: https://github.com/poseidon-framework/aadr2poseidon
