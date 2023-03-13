@@ -4,7 +4,7 @@ name: poseidon validate (trident)
 on:
   pull_request:
   push:
-    branches: [master]
+    branches: [main]
 
 jobs:
   validate:
