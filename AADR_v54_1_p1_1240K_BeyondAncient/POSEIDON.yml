@@ -8,8 +8,8 @@ contributor:
 - name: Clemens Schmid
   email: clemens_schmid@eva.mpg.de
   orcid: 0000-0003-3448-5715
-packageVersion: 0.1.0
-lastModified: 2023-03-10
+packageVersion: 0.1.1
+lastModified: 2023-03-20
 genotypeData:
   format: PLINK
   genoFile: AADR_v54_1_p1_1240K_BeyondAncient.bed
@@ -20,6 +20,7 @@ genotypeData:
   indFileChkSum: 113b2b2679df98c8c4a3b21c8b92b67e
   snpSet: 1240K
 jannoFile: AADR_v54_1_p1_1240K_BeyondAncient.janno
-jannoFileChkSum: b7b8b38cdb18f0fa4e5bc43ecfaaf7ca
+jannoFileChkSum: 6d6f2015d206a08cc690d5d787cc765c
 bibFile: AADR_v54_1_p1_1240K_BeyondAncient.bib
-bibFileChkSum: e26210644a07de00b82be3647888b16e
+bibFileChkSum: a6d9405bdea56874c244fc0248fa7046
+changelogFile: CHANGELOG.md
