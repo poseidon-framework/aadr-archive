@@ -18,7 +18,7 @@ jobs:
         chmod +x trident-Linux
         
     - name: Clone data repo
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
       with:
         path: data
 
