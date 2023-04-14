@@ -1,1 +1,2 @@
+- V 0.1.2: update of the AADR citation
 - V 0.1.1: added the AADR citation for every individual
