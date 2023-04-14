@@ -18,7 +18,7 @@ genotypeData:
   indFileChkSum: c869e41b6cc80c4255aacbb8524e39b2
   snpSet: 1240K
 jannoFile: AADR_v54_1_p1_1240K_EuropeAncient.janno
-jannoFileChkSum: 054aebb388b03e4c73b810d117da72cc
+jannoFileChkSum: c946c12ee5debe06bebbf7d0e4e36920
 bibFile: AADR_v54_1_p1_1240K_EuropeAncient.bib
-bibFileChkSum: c10542aabd78aa5313dfbe9475f05bd4
+bibFileChkSum: e2f0acf8dfe3c82129176208e6ed1602
 changelogFile: CHANGELOG.md
