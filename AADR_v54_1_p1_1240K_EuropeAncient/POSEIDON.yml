@@ -1,14 +1,13 @@
 poseidonVersion: 2.7.0
 title: AADR_v54_1_p1_1240K_EuropeAncient
 description: A Poseidon package from the AADR dataset v54.1.p1. This subset contains
-  ancient data from Europe. Should be cited as "Allen Ancient DNA Resource https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data",
-  version 54.1.p1"
+  ancient data from Europe. Must be cited according to AADR specifications.
 contributor:
 - name: Clemens Schmid
   email: clemens_schmid@eva.mpg.de
   orcid: 0000-0003-3448-5715
-packageVersion: 0.1.1
-lastModified: 2023-03-20
+packageVersion: 0.1.2
+lastModified: 2023-04-14
 genotypeData:
   format: PLINK
   genoFile: AADR_v54_1_p1_1240K_EuropeAncient.bed
@@ -19,7 +18,7 @@ genotypeData:
   indFileChkSum: c869e41b6cc80c4255aacbb8524e39b2
   snpSet: 1240K
 jannoFile: AADR_v54_1_p1_1240K_EuropeAncient.janno
-jannoFileChkSum: 25fc62f31ba61b328fcb6d663e41b1b8
+jannoFileChkSum: 054aebb388b03e4c73b810d117da72cc
 bibFile: AADR_v54_1_p1_1240K_EuropeAncient.bib
-bibFileChkSum: a1762f1f69b5eb5af0c6934aca2c4c79
+bibFileChkSum: c10542aabd78aa5313dfbe9475f05bd4
 changelogFile: CHANGELOG.md
