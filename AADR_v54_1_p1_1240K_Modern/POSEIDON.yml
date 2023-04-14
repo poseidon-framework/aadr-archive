@@ -1,7 +1,7 @@
 poseidonVersion: 2.7.0
 title: AADR_v54_1_p1_1240K_Modern
 description: A Poseidon package from the AADR dataset v54.1.p1. This subset contains
-  modern data. Must be cited according to the AADR specifications.
+  modern data. Must be cited according to AADR specifications.
 contributor:
 - name: Clemens Schmid
   email: clemens_schmid@eva.mpg.de
@@ -20,5 +20,5 @@ genotypeData:
 jannoFile: AADR_v54_1_p1_1240K_Modern.janno
 jannoFileChkSum: 205a3012d7dd6624dbb33f2fcde081cd
 bibFile: AADR_v54_1_p1_1240K_Modern.bib
-bibFileChkSum: ae024570b874976075f5dea8e481f041
+bibFileChkSum: 6d40c31aab2f01c6c62d99d0bf166c4f
 changelogFile: CHANGELOG.md
