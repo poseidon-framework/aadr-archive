@@ -1,5 +1,3 @@
-[![poseidon validate (trident)](https://github.com/poseidon-framework/poseidon-aadr/workflows/poseidon%20validate%20(trident)/badge.svg)](https://github.com/poseidon-framework/poseidon-aadr/actions)
-
 The steps we applied to transform the AADR datasets to Poseidon packages are documented here: https://github.com/poseidon-framework/aadr2poseidon
 
 Researchers who wish to use this compilation should provide two citations. The first should be to the Dataverse page and the specific version of AADR they use as the basis of their analyses (e.g. version 54.1.p1, the March 6 2023 release, as in the example below). The second should be to the manuscript describing AADR.

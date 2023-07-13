@@ -1,0 +1,16 @@
+title: Poseidon aadr-archive chronicle
+chronicleVersion: 1.0.0
+lastModified: 2023-07-13
+packages:
+- title: AADR_v54_1_p1_1240K_BeyondAncient
+  version: 0.1.2
+  commit: 00d0afcb0d34f221c84c5f094dc08b647f8c0c24
+  path: AADR_v54_1_p1_1240K_BeyondAncient
+- title: AADR_v54_1_p1_1240K_EuropeAncient
+  version: 0.1.2
+  commit: 00d0afcb0d34f221c84c5f094dc08b647f8c0c24
+  path: AADR_v54_1_p1_1240K_EuropeAncient
+- title: AADR_v54_1_p1_1240K_Modern
+  version: 0.1.2
+  commit: 00d0afcb0d34f221c84c5f094dc08b647f8c0c24
+  path: AADR_v54_1_p1_1240K_Modern
