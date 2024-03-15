@@ -1,13 +1,14 @@
 poseidonVersion: 2.7.1
 title: AADR_v54_1_p1_HO_Modern_not_in_1240K
 description: A Poseidon package from the AADR dataset v54.1.p1. This subset contains
-  modern reference data for which only SNPs on the HumanOrigin array are available. Must be cited according to AADR specifications.
+  modern reference data for which only SNPs on the HumanOrigin array are available.
+  Must be cited according to AADR specifications.
 contributor:
 - name: Clemens Schmid
   email: clemens_schmid@eva.mpg.de
   orcid: 0000-0003-3448-5715
-packageVersion: 0.1.0
-lastModified: 2023-11-08
+packageVersion: 0.1.1
+lastModified: 2024-03-15
 genotypeData:
   format: PLINK
   genoFile: AADR_v54_1_p1_HO_Modern_not_in_1240K.bed
@@ -20,4 +21,5 @@ genotypeData:
 jannoFile: AADR_v54_1_p1_HO_Modern_not_in_1240K.janno
 jannoFileChkSum: 4616eb5f6c3d9810a37718c6941e9821
 bibFile: AADR_v54_1_p1_HO_Modern_not_in_1240K.bib
-bibFileChkSum: 332c919d488ea15c7d3e9706b5fb3e68
+bibFileChkSum: ea97c45e89fe1be7864dd819fdfa62b1
+changelogFile: CHANGELOG.md
