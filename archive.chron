@@ -1,20 +1,36 @@
 title: Poseidon aadr-archive chronicle
-chronicleVersion: 1.1.0
-lastModified: 2023-11-10
+chronicleVersion: 1.2.0
+lastModified: 2024-03-15
 packages:
 - title: AADR_v54_1_p1_1240K_BeyondAncient
   version: 0.1.2
   commit: 00d0afcb0d34f221c84c5f094dc08b647f8c0c24
   path: AADR_v54_1_p1_1240K_BeyondAncient
+- title: AADR_v54_1_p1_1240K_BeyondAncient
+  version: 0.1.3
+  commit: 3319514dea06d890db776152d0ee4d593e35a504
+  path: AADR_v54_1_p1_1240K_BeyondAncient
 - title: AADR_v54_1_p1_1240K_EuropeAncient
   version: 0.1.2
   commit: 00d0afcb0d34f221c84c5f094dc08b647f8c0c24
+  path: AADR_v54_1_p1_1240K_EuropeAncient
+- title: AADR_v54_1_p1_1240K_EuropeAncient
+  version: 0.1.3
+  commit: 3319514dea06d890db776152d0ee4d593e35a504
   path: AADR_v54_1_p1_1240K_EuropeAncient
 - title: AADR_v54_1_p1_1240K_Modern
   version: 0.1.2
   commit: 00d0afcb0d34f221c84c5f094dc08b647f8c0c24
   path: AADR_v54_1_p1_1240K_Modern
+- title: AADR_v54_1_p1_1240K_Modern
+  version: 0.1.3
+  commit: 3319514dea06d890db776152d0ee4d593e35a504
+  path: AADR_v54_1_p1_1240K_Modern
 - title: AADR_v54_1_p1_HO_Modern_not_in_1240K
   version: 0.1.0
   commit: d9f64cd652a71eb02a3323e9dd59f5f247f296eb
+  path: AADR_v54_1_p1_HO_Modern_not_in_1240K
+- title: AADR_v54_1_p1_HO_Modern_not_in_1240K
+  version: 0.1.1
+  commit: 3319514dea06d890db776152d0ee4d593e35a504
   path: AADR_v54_1_p1_HO_Modern_not_in_1240K
