@@ -1,0 +1,26 @@
+poseidonVersion: 2.7.1
+title: AADR_v62_1240K_EuropeAncientSouth
+description: A Poseidon package from the AADR dataset v62.0. This subset contains
+  ancient data from Europe (south of 46°). Must be cited according to AADR specifications.
+contributor:
+- name: Clemens Schmid
+  email: clemens_schmid@eva.mpg.de
+  orcid: 0000-0003-3448-5715
+- name: Martyna Molak-Tomsia
+  email: martyna_molak@eva.mpg.de
+  orcid: 0000-0001-5068-8649
+packageVersion: 1.0.0
+lastModified: 2025-02-05
+genotypeData:
+  format: PLINK
+  genoFile: AADR_v62_1240K_EuropeAncientSouth.bed
+  genoFileChkSum: 2c1931fc8e18f57044beb10adda61d7a
+  snpFile: AADR_v62_1240K_EuropeAncientSouth.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: AADR_v62_1240K_EuropeAncientSouth.fam
+  indFileChkSum: e702225dd2f48b0c77dcc2cd96ccd67e
+  snpSet: 1240K
+jannoFile: AADR_v62_1240K_EuropeAncientSouth.janno
+jannoFileChkSum: ba7f213a22e0cad14813a669aa53c46c
+bibFile: AADR_v62_1240K_EuropeAncientSouth.bib
+bibFileChkSum: 80e02fa781d08ef463ae8a479b04eb10
