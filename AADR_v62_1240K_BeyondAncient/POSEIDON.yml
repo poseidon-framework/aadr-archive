@@ -1,0 +1,26 @@
+poseidonVersion: 2.7.1
+title: AADR_v62_1240K_BeyondAncient
+description: A Poseidon package from the AADR dataset v62.0. This subset contains
+  ancient data from beyond Europe. Must be cited according to AADR specifications.
+contributor:
+- name: Clemens Schmid
+  email: clemens_schmid@eva.mpg.de
+  orcid: 0000-0003-3448-5715
+- name: Martyna Molak-Tomsia
+  email: martyna_molak@eva.mpg.de
+  orcid: 0000-0001-5068-8649
+packageVersion: 1.0.0
+lastModified: 2025-02-05
+genotypeData:
+  format: PLINK
+  genoFile: AADR_v62_1240K_BeyondAncient.bed
+  genoFileChkSum: 8d4cd435ae760a44dde4c6aa9d0a3cda
+  snpFile: AADR_v62_1240K_BeyondAncient.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: AADR_v62_1240K_BeyondAncient.fam
+  indFileChkSum: 28f92cf1f2faf7f77a003fa9a5a2da8a
+  snpSet: 1240K
+jannoFile: AADR_v62_1240K_BeyondAncient.janno
+jannoFileChkSum: edf215ad0ff8c89c4bb8e31f4df45f3e
+bibFile: AADR_v62_1240K_BeyondAncient.bib
+bibFileChkSum: 3c4c3816b22404bc74cb3469c5732075

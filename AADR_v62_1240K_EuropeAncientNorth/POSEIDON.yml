@@ -1,0 +1,26 @@
+poseidonVersion: 2.7.1
+title: AADR_v62_1240K_EuropeAncientNorth
+description: A Poseidon package from the AADR dataset v62.0. This subset contains
+  ancient data from Europe (north of 46°). Must be cited according to AADR specifications.
+contributor:
+- name: Clemens Schmid
+  email: clemens_schmid@eva.mpg.de
+  orcid: 0000-0003-3448-5715
+- name: Martyna Molak-Tomsia
+  email: martyna_molak@eva.mpg.de
+  orcid: 0000-0001-5068-8649
+packageVersion: 1.0.0
+lastModified: 2025-02-05
+genotypeData:
+  format: PLINK
+  genoFile: AADR_v62_1240K_EuropeAncientNorth.bed
+  genoFileChkSum: b83f02f20e3c997fba7aa68e7778de32
+  snpFile: AADR_v62_1240K_EuropeAncientNorth.bim
+  snpFileChkSum: 433fa85a23f3123bade02348e4628b75
+  indFile: AADR_v62_1240K_EuropeAncientNorth.fam
+  indFileChkSum: 552cfdfeace4310f979ce6a9f76c92fb
+  snpSet: 1240K
+jannoFile: AADR_v62_1240K_EuropeAncientNorth.janno
+jannoFileChkSum: 3b306a7dddaa9542ea6ddec78ad3f277
+bibFile: AADR_v62_1240K_EuropeAncientNorth.bib
+bibFileChkSum: f56dfc8f6c7830ace0e9ec97bbce113a

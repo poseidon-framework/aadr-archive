@@ -23,7 +23,7 @@ jobs:
         path: data
 
     - name: Validation
-      run: ./trident-Linux validate -d data --ignoreGeno --logMode VerboseLog
+      run: ./trident-Linux validate -d data --ignoreGeno --ignoreDuplicates --logMode VerboseLog
 
     - name: Check for displaced files
       run: ./checkForDisplacedFiles.sh
