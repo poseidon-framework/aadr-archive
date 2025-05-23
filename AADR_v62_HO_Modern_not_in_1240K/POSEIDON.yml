@@ -1,0 +1,24 @@
+poseidonVersion: 2.7.1
+title: AADR_v62_HO_Modern_not_in_1240K
+description: A Poseidon package from the AADR dataset v62.0. This subset contains
+  modern reference data for which only SNPs on the HumanOrigin array are available.
+  Must be cited according to AADR specifications.
+contributor:
+- name: Clemens Schmid
+  email: clemens_schmid@eva.mpg.de
+  orcid: 0000-0003-3448-5715
+packageVersion: 1.0.0
+lastModified: 2025-05-23
+genotypeData:
+  format: PLINK
+  genoFile: AADR_v62_HO_Modern_not_in_1240K.bed
+  genoFileChkSum: 9997c0fc6de6664524c88a86841aafd0
+  snpFile: AADR_v62_HO_Modern_not_in_1240K.bim
+  snpFileChkSum: be136e6d74d549eac82f1fcf2d615dc7
+  indFile: AADR_v62_HO_Modern_not_in_1240K.fam
+  indFileChkSum: ec2d4f3e83213092fd15e1b422cbedb8
+  snpSet: HumanOrigins
+jannoFile: AADR_v62_HO_Modern_not_in_1240K.janno
+jannoFileChkSum: 75c107e1d016a1c1574833458938f6b2
+bibFile: AADR_v62_HO_Modern_not_in_1240K.bib
+bibFileChkSum: 4ea77cd895c86176ba765fac74b7ce14
