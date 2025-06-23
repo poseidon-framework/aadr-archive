@@ -19,6 +19,6 @@ genotypeData:
   indFileChkSum: ec2d4f3e83213092fd15e1b422cbedb8
   snpSet: HumanOrigins
 jannoFile: AADR_v62_HO_Modern_not_in_1240K.janno
-jannoFileChkSum: 75c107e1d016a1c1574833458938f6b2
+jannoFileChkSum: 690b898a1f341ec95fc1e27efda93c26
 bibFile: AADR_v62_HO_Modern_not_in_1240K.bib
 bibFileChkSum: 4ea77cd895c86176ba765fac74b7ce14
