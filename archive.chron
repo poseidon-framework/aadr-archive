@@ -1,6 +1,6 @@
 title: Poseidon aadr-archive chronicle
-chronicleVersion: 1.3.0
-lastModified: 2025-02-17
+chronicleVersion: 1.4.0
+lastModified: 2025-06-23
 packages:
 - title: AADR_v54_1_p1_1240K_BeyondAncient
   version: 0.1.2
@@ -50,3 +50,7 @@ packages:
   version: 1.0.0
   commit: 4022d530d5836ad7963d174394148095f2a6ee45
   path: AADR_v62_1240K_Modern
+- title: AADR_v62_HO_Modern_not_in_1240K
+  version: 1.0.0
+  commit: 2370d8a989b1f75b3a855cc9fa4ee118c4fed809
+  path: AADR_v62_HO_Modern_not_in_1240K
