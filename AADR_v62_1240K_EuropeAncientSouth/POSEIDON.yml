@@ -9,8 +9,8 @@ contributor:
 - name: Martyna Molak-Tomsia
   email: martyna_molak@eva.mpg.de
   orcid: 0000-0001-5068-8649
-packageVersion: 1.0.0
-lastModified: 2025-02-05
+packageVersion: 1.1.0
+lastModified: 2025-07-04
 genotypeData:
   format: PLINK
   genoFile: AADR_v62_1240K_EuropeAncientSouth.bed
@@ -21,6 +21,7 @@ genotypeData:
   indFileChkSum: e702225dd2f48b0c77dcc2cd96ccd67e
   snpSet: 1240K
 jannoFile: AADR_v62_1240K_EuropeAncientSouth.janno
-jannoFileChkSum: 29507c99ae665f3f6c1bcf1c68f73827
+jannoFileChkSum: 2785867c6d7ba1a75a2b79337a4ee6bc
 bibFile: AADR_v62_1240K_EuropeAncientSouth.bib
-bibFileChkSum: 80e02fa781d08ef463ae8a479b04eb10
+bibFileChkSum: 21afcc8728ee9560ffaeb2f55f26c7cf
+changelogFile: CHANGELOG.md
