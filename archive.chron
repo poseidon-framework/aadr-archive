@@ -1,6 +1,6 @@
 title: Poseidon aadr-archive chronicle
-chronicleVersion: 1.5.0
-lastModified: 2025-07-06
+chronicleVersion: 1.6.0
+lastModified: 2026-05-11
 packages:
 - title: AADR_v54_1_p1_1240K_BeyondAncient
   version: 0.1.2
@@ -62,3 +62,23 @@ packages:
   version: 1.0.0
   commit: 2370d8a989b1f75b3a855cc9fa4ee118c4fed809
   path: AADR_v62_HO_Modern_not_in_1240K
+- title: AADR_v66_1240K
+  version: 1.0.0
+  commit: 5d28ebac3d60499afd18739297cfaa898f810d56
+  path: AADR_v66_1240K
+- title: AADR_v66_2M
+  version: 1.0.0
+  commit: 5d28ebac3d60499afd18739297cfaa898f810d56
+  path: AADR_v66_2M
+- title: AADR_v66_2M_compatibility
+  version: 1.0.0
+  commit: 5d28ebac3d60499afd18739297cfaa898f810d56
+  path: AADR_v66_2M_compatibility
+- title: AADR_v66_HO
+  version: 1.0.0
+  commit: 5d28ebac3d60499afd18739297cfaa898f810d56
+  path: AADR_v66_HO
+- title: AADR_v66_HO_compatibility
+  version: 1.0.0
+  commit: 5d28ebac3d60499afd18739297cfaa898f810d56
+  path: AADR_v66_HO_compatibility
