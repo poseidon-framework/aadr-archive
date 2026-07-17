@@ -1,0 +1,23 @@
+poseidonVersion: 3.0.0
+title: AADR_v66_p1_1240K
+description: Poseidon package version of the AADR v66.p1 dataset. Must be cited according
+  to AADR specifications.
+contributor:
+- name: Clemens Schmid
+  email: clemens_schmid@eva.mpg.de
+  orcid: 0000-0003-3448-5715
+packageVersion: 1.0.0
+lastModified: 2026-05-03
+genotypeData:
+  format: PLINK
+  genoFile: AADR_v66_p1_1240K.bed.gz
+  genoFileChkSum: 5aa9c109f101e7df672fa51cf6f05781
+  snpFile: AADR_v66_p1_1240K.bim.gz
+  snpFileChkSum: 3729599fb64a73637367c808716d081a
+  indFile: AADR_v66_p1_1240K.fam
+  indFileChkSum: 9ef54fc968b5dccd071799fbefd71db5
+  snpSet: 1240K
+jannoFile: AADR_v66_p1_1240K.janno
+jannoFileChkSum: 9a37a2808208cd91657704310f0d8a3f
+bibFile: AADR_v66_p1_1240K.bib
+bibFileChkSum: 2b1ec4851aff3bb791676e32a78295ae
