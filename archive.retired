@@ -1,4 +1,14 @@
 title: Retired packages in the Poseidon aadr-archive
-version: 1.0.0
-lastModified: 2026-01-06
-packages: []
+version: 2.0.0
+lastModified: 2026-07-17
+packages:
+  - name: AADR_v66_1240K
+    comment: v66.0 of the AADR contains genomes from Jacobs et al. 2019 (10.1016/j.cell.2019.02.035) that should not be publicly available. It was replaced by v66.p1 where the respective individuals are removed.
+  - name: AADR_v66_2M
+    comment: v66.0 of the AADR contains genomes from Jacobs et al. 2019 (10.1016/j.cell.2019.02.035) that should not be publicly available. It was replaced by v66.p1 where the respective individuals are removed.
+  - name: AADR_v66_2M_compatibility
+    comment: v66.0 of the AADR contains genomes from Jacobs et al. 2019 (10.1016/j.cell.2019.02.035) that should not be publicly available. It was replaced by v66.p1 where the respective individuals are removed.
+  - name: AADR_v66_HO
+    comment: v66.0 of the AADR contains genomes from Jacobs et al. 2019 (10.1016/j.cell.2019.02.035) that should not be publicly available. It was replaced by v66.p1 where the respective individuals are removed.
+  - name: AADR_v66_HO_compatibility
+    comment: v66.0 of the AADR contains genomes from Jacobs et al. 2019 (10.1016/j.cell.2019.02.035) that should not be publicly available. It was replaced by v66.p1 where the respective individuals are removed.
