@@ -1,5 +1,5 @@
 poseidonVersion: 3.0.0
-title: AADR_v66_2M
+title: AADR_v66_p1_2M
 description: Poseidon package version of the AADR v66.0 dataset. Must be cited according
   to AADR specifications.
 contributor:
@@ -10,14 +10,14 @@ packageVersion: 1.0.0
 lastModified: 2026-05-03
 genotypeData:
   format: PLINK
-  genoFile: AADR_v66_2M.bed.gz
-  genoFileChkSum: 3a0a370b70b5fa64ddf8c2c6a9ceac30
-  snpFile: AADR_v66_2M.bim.gz
+  genoFile: AADR_v66_p1_2M.bed.gz
+  genoFileChkSum: dccaa5583fd278ca90c8244c68349452
+  snpFile: AADR_v66_p1_2M.bim.gz
   snpFileChkSum: d6e24d15e03e153720c84c5732693e5b
-  indFile: AADR_v66_2M.fam
-  indFileChkSum: d99e5a0706a3fa90377d791cd0a12af0
+  indFile: AADR_v66_p1_2M.fam
+  indFileChkSum: 783b665057ef1ab2f1b24212f45402a7
   snpSet: Other
-jannoFile: AADR_v66_2M.janno
-jannoFileChkSum: cf1a4a84bc28b28eae5eef7695856bd9
-bibFile: AADR_v66_2M.bib
-bibFileChkSum: 655c2b2e582ad9b8f3ef59251b6938ff
+jannoFile: AADR_v66_p1_2M.janno
+jannoFileChkSum: 85d8e5bbd1ca23761abd0c46cdb95957
+bibFile: AADR_v66_p1_2M.bib
+bibFileChkSum: 2b1ec4851aff3bb791676e32a78295ae
