@@ -1,6 +1,6 @@
 poseidonVersion: 3.0.0
 title: AADR_v66_p1_2M
-description: Poseidon package version of the AADR v66.0 dataset. Must be cited according
+description: Poseidon package version of the AADR v66.p1 dataset. Must be cited according
   to AADR specifications.
 contributor:
 - name: Clemens Schmid
